@@ -1,0 +1,1 @@
+Notes to keep for the MeerKAT intensity mapping data analysis
